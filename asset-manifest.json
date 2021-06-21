@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carolina_portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/carolina_portfolio/static/js/main.9d769b47.chunk.js",
+    "main.js.map": "/carolina_portfolio/static/js/main.9d769b47.chunk.js.map",
+    "runtime-main.js": "/carolina_portfolio/static/js/runtime-main.fbbd0a15.js",
+    "runtime-main.js.map": "/carolina_portfolio/static/js/runtime-main.fbbd0a15.js.map",
+    "static/js/2.b8abd54e.chunk.js": "/carolina_portfolio/static/js/2.b8abd54e.chunk.js",
+    "static/js/2.b8abd54e.chunk.js.map": "/carolina_portfolio/static/js/2.b8abd54e.chunk.js.map",
+    "static/js/3.d5b95e05.chunk.js": "/carolina_portfolio/static/js/3.d5b95e05.chunk.js",
+    "static/js/3.d5b95e05.chunk.js.map": "/carolina_portfolio/static/js/3.d5b95e05.chunk.js.map",
+    "index.html": "/carolina_portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/carolina_portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b8abd54e.chunk.js.LICENSE.txt": "/carolina_portfolio/static/js/2.b8abd54e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/carolina_portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbbd0a15.js",
+    "static/js/2.b8abd54e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.9d769b47.chunk.js"
+  ]
+}
