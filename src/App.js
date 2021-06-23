@@ -1,25 +1,27 @@
-import logo from './logo.svg';
+import React, { Component, Suspense } from 'react';
 import './App.css';
+import Sidebar from './components/Sidebar.js';
+import Introduction from './components/Introduction.js';
+import About from './components/About.js';
+import './i18n.js';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+	
+  render() {	
+	return (	  
+		<Suspense fallback="loading">
+      <div id="colorlib-page">
+        <div id="container-wrap">
+         	<Sidebar></Sidebar>
+				<div id="colorlib-main">
+					<Introduction></Introduction>
+					<About></About>
+          	</div>
+      	</div>
+      </div>
+	  </Suspense>
+    );
+  }
 }
 
 export default App;
