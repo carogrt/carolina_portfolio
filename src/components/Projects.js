@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class Experience extends Component {
+export default class Projects extends Component {
   render() {
     return (
       <div>
@@ -9,7 +9,7 @@ export default class Experience extends Component {
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Experience</h2>
+                <h2 className="colorlib-heading animate-box">Projects</h2>
               </div>
             </div>
             <div className="row">
