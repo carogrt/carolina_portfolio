@@ -3,6 +3,12 @@ import './App.css';
 import Sidebar from './components/Sidebar.js';
 import Introduction from './components/Introduction.js';
 import About from './components/About.js';
+import Education from './components/Education.js';
+import Experience from './components/Experience.js';
+import Skills from './components/Skills.js';
+import Projects from './components/Projects.js';
+import WhatIDo from './components/WhatIDo';
+
 import './i18n.js';
 
 class App extends Component {
@@ -16,6 +22,11 @@ class App extends Component {
 				<div id="colorlib-main">
 					<Introduction></Introduction>
 					<About></About>
+					<WhatIDo></WhatIDo>
+					<Experience></Experience>
+					<Education></Education>
+					<Skills></Skills>
+					<Projects></Projects>
           	</div>
       	</div>
       </div>

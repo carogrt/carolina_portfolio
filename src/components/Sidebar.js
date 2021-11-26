@@ -19,12 +19,12 @@ function Sidebar(){
               <ul>
                 <li className="active"><a href="#home" data-nav-section="home">{t('introduction')}</a></li>
                 <li><a href="#about" data-nav-section="about">{t('about')}</a></li>
-                <li><a href="#education" data-nav-section="about">{t('education')}</a></li>
-                <li><a href="#experience" data-nav-section="about">{t('experience')}</a></li>
-                <li><a href="#skill" data-nav-section="about">{t('skills')}</a></li>
+                <li><a href="#whatido" data-nav-section="whatido">{t('whatido')}</a></li>
+                <li><a href="#education" data-nav-section="education">{t('education')}</a></li>
+                <li><a href="#experience" data-nav-section="experience">{t('experience')}</a></li>
+                <li><a href="#skill" data-nav-section="skill">{t('skills')}</a></li>
                 {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
                 <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
-                <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
               </ul>
             </div>
           </nav>
