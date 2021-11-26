@@ -9,8 +9,7 @@ export default class Experience extends Component {
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Work Experience</h2>
-              </div>
+                <h2 className="colorlib-heading animate-box">Work Experience</h2>              </div>
             </div>
             <div className="row">
               <div className="col-md-12">
@@ -47,6 +46,7 @@ export default class Experience extends Component {
                           <li>Software architecture design and implementation of machine control software and GUI applications on Linux Embedded systems with C++ and Qt Framework. Knowledge of OOP design principles, design patterns and unit testing. Also knowledge of Shell Scripting, Java, .NET framework and C#.</li>
                           <li>Development of web application:  HTML 5, CSS, Javascript, REST API</li>
                         </ul>
+
                       </div>
                     </div>
                   </article>

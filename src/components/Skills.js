@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 
 
 const skills = [
+
     {id: 1, name: "OOP Design Patterns & Principles", value: "90", color: "color-1"},
     {id: 2, name: "C++", value: "75", color: "color-2"},
     {id: 3, name: "Qt", value: "85", color: "color-1"},

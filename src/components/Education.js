@@ -72,7 +72,6 @@ export default class Education extends Component {
 					</div>
 				</div>
 			</section>
-
       </div>
     )
   }

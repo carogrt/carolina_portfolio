@@ -8,7 +8,6 @@ import Experience from './components/Experience.js';
 import Skills from './components/Skills.js';
 import Projects from './components/Projects.js';
 import WhatIDo from './components/WhatIDo';
-
 import './i18n.js';
 
 class App extends Component {
