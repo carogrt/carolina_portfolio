@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/carolina_portfolio/static/css/main.7854ba0e.chunk.css",
+    "main.js": "/carolina_portfolio/static/js/main.6f44b78b.chunk.js",
+    "main.js.map": "/carolina_portfolio/static/js/main.6f44b78b.chunk.js.map",
+    "runtime-main.js": "/carolina_portfolio/static/js/runtime-main.80de3f16.js",
+    "runtime-main.js.map": "/carolina_portfolio/static/js/runtime-main.80de3f16.js.map",
+    "static/js/2.c3b46579.chunk.js": "/carolina_portfolio/static/js/2.c3b46579.chunk.js",
+    "static/js/2.c3b46579.chunk.js.map": "/carolina_portfolio/static/js/2.c3b46579.chunk.js.map",
+    "index.html": "/carolina_portfolio/index.html",
+    "static/css/main.7854ba0e.chunk.css.map": "/carolina_portfolio/static/css/main.7854ba0e.chunk.css.map",
+    "static/js/2.c3b46579.chunk.js.LICENSE.txt": "/carolina_portfolio/static/js/2.c3b46579.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80de3f16.js",
+    "static/js/2.c3b46579.chunk.js",
+    "static/css/main.7854ba0e.chunk.css",
+    "static/js/main.6f44b78b.chunk.js"
+  ]
+}
