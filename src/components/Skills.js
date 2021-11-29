@@ -3,13 +3,13 @@ import React, { Component } from 'react'
 
 const skills = [
 
-    {id: 1, name: "OOP Design Patterns & Principles", value: "90", color: "color-1"},
-    {id: 2, name: "C++", value: "75", color: "color-2"},
-    {id: 3, name: "Qt", value: "85", color: "color-1"},
+    {id: 1, name: "OOP Design Patterns & Principles", value: "90", color: "color-2"},
+    {id: 2, name: "C++", value: "85", color: "color-2"},
+    {id: 3, name: "Qt", value: "85", color: "color-2"},
     {id: 4, name: "C#", value: "80", color: "color-3"},
-    {id: 5, name: "Embedded Linux", value: "75", color: "color-1"},
-    {id: 6, name: "HTML/CSS/Javascript", value: "75", color: "color-2"},
-    {id: 7, name: "React", value: "50", color: "color-1"},
+    {id: 5, name: "Embedded Linux", value: "75", color: "color-3"},
+    {id: 6, name: "HTML/CSS/Javascript", value: "70", color: "color-1"},
+    {id: 7, name: "React", value: "65", color: "color-1"},
 
 ]
 
@@ -31,11 +31,11 @@ export default class Skills extends Component {
   render() {
     return (
       <div>
-        <section className="colorlib-about">
+        <section className="colorlib-about" data-section="skill">
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
+                <span className="heading-meta">Skills</span>
                 <h2 className="colorlib-heading">Here are some of my skills</h2>
             </div>
             </div>    

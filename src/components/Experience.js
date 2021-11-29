@@ -22,9 +22,10 @@ export default class Experience extends Component {
                       <div className="timeline-label">
                         <h2>Senior Software Engineer R&D Medical Department <span>2021-present</span></h2>
                         <ul>
-                          <li>Research and development activities in the field of medical laser systems: feasibility studies, analysis and implementation of algorithms, analysis and integration of new features.
+                          <li>Research and development activities in the field of medical laser systems: feasibility studies, 
+                            analysis and implementation of algorithms, analysis and integration of new features; analysis of new instruments and software technologies.
                           </li>
-                          <li>Software architecture design and implementation in C# on Windows 10 platforms and Windows CE platforms.</li>
+                          <li>Software architecture design and implementation on Windows 10 platforms and Windows CE platforms: .NET framework, C, C++</li>
                           <li>Firmware implementation in C language on Renesas 32 bit microcontrollers.</li>
                           <li>Drafting of documentation according to the company quality system</li>
                          </ul>

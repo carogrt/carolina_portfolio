@@ -8,6 +8,7 @@ import Experience from './components/Experience.js';
 import Skills from './components/Skills.js';
 import Projects from './components/Projects.js';
 import WhatIDo from './components/WhatIDo';
+import Contacts from './components/Contacts';
 import './i18n.js';
 
 class App extends Component {
@@ -26,6 +27,7 @@ class App extends Component {
 					<Education></Education>
 					<Skills></Skills>
 					<Projects></Projects>
+					<Contacts></Contacts>
           	</div>
       	</div>
       </div>

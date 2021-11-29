@@ -13,9 +13,10 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a passionate Software Engineer currently working for a Company leader in laser device market, and as a freelance software developer.
-                       I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am a passionate software engineer currently working for a leading company in the medical laser device market and as a freelance software developer.                         
+                       I studied electronic engineering but immediately after graduation I realized that my real passion was software and therefore I studied and worked a lot to become a good Software Engineer                   
+                       I love exploring new technologies and I never stop studying because I always try to improve myself.</p>
+                    <p>Of course, I'm not just that! I'm a very dynamic person: climbing, photograpy and handmade crafts, are just some of the things I love to do in my free time.</p>
                     </div>
                 </div>
                 </div>

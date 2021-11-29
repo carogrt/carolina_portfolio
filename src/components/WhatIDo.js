@@ -33,7 +33,7 @@ export default class About extends Component {
 								</span>
 								<div class="desc">
 									<h3>Web Development</h3>
-									<p>Web Application and Web Site develpment.<br />Using pure HTML/CSS/Javascript, React framework, or CMS like Wordpress.</p>
+									<p>Web Application and Website devolopment.<br />Using pure HTML/CSS/Javascript, React framework, or CMS like Wordpress.</p>
 								</div>
 							</div>
 						</div>
@@ -45,7 +45,8 @@ export default class About extends Component {
 								<div class="desc">
 									<h3>Counseling & Teaching</h3>
 									<p>Consultancy for Companies and Individuals.
-                                    <br />Private lessons and tutorials on blogs. </p>
+                                    <br/> Private lessons and tutorials on blogs.									
+									<br/>CCollaborations for hardware and software prototyping </p>
 								</div>
 							</div>
 						</div>
