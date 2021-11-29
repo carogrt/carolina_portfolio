@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/carolina_portfolio/static/css/main.7854ba0e.chunk.css",
-    "main.js": "/carolina_portfolio/static/js/main.6fe68fce.chunk.js",
-    "main.js.map": "/carolina_portfolio/static/js/main.6fe68fce.chunk.js.map",
+    "main.js": "/carolina_portfolio/static/js/main.c93ff03d.chunk.js",
+    "main.js.map": "/carolina_portfolio/static/js/main.c93ff03d.chunk.js.map",
     "runtime-main.js": "/carolina_portfolio/static/js/runtime-main.80de3f16.js",
     "runtime-main.js.map": "/carolina_portfolio/static/js/runtime-main.80de3f16.js.map",
     "static/js/2.c3b46579.chunk.js": "/carolina_portfolio/static/js/2.c3b46579.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.80de3f16.js",
     "static/js/2.c3b46579.chunk.js",
     "static/css/main.7854ba0e.chunk.css",
-    "static/js/main.6fe68fce.chunk.js"
+    "static/js/main.c93ff03d.chunk.js"
   ]
 }
